@@ -13,13 +13,11 @@ I'm Maryam, a passionate Android developer. I aim to be an expert in mobile deve
 * 🏡 I live in Medina, Saudi Arabia.
 * 👩‍💻 I'm open to remote job opportunities.
 
----
 
 ## Github stats
 ![Maryam's github stats](https://github-readme-stats.vercel.app/api?username=mal7othify&count_private=true&theme=tokyonight&show_icons=true&hide=contribs,prs)
 ![Maryam's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mal7othify&langs_count=8&theme=tokyonight)
 
----
 
 <br/>
 <div align="right">
