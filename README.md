@@ -21,10 +21,6 @@ I'm Maryam, a passionate Android developer. I aim to be an expert in mobile deve
 
 ---
 
-## Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br/>
 <div align="right">
 
