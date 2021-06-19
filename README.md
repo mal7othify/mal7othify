@@ -5,13 +5,12 @@
   <a href="https://www.linkedin.com/in/mal7othify">LinkedIn</a>
 </p>
 <br/>
-I'm Maryam, a passionate Android developer. I aim to be an expert in mobile development.
+I'm Maryam, a passionate software developer. I aim to be an expert in mobile development field.
 
 
 * 📚 Sharing knowledge and experiences at my blog.
 * 🎙 I love contributing to the community by giving talks, writing blog posts whenever I can.
 * 🏡 I live in Medina, Saudi Arabia.
-* 👩‍💻 I'm open to remote job opportunities.
 
 
 ## Github stats
