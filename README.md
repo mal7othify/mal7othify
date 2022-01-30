@@ -24,7 +24,7 @@ I'm Maryam, a Google Developer Expert for Android. Currently, I work as a sr. An
 
 * 📚 Sharing my knowledge and experiences at my blog.
 * 🎙 I love contributing to the community by giving talks, writing blog posts whenever I can.
-* 🏡 I'm a cat mom.
+* 😺 I'm a cat mom.
 
 
 ## Github stats
