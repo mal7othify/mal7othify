@@ -19,12 +19,12 @@
 </div>
 
 
-I'm Maryam, a passionate software developer. I aim to be an expert in mobile development field.
+I'm Maryam, a Google Developer Expert for Android. Currently, I work as a sr. Android development specialist at Zain KSA.
 
 
-* 📚 Sharing knowledge and experiences at my blog.
+* 📚 Sharing my knowledge and experiences at my blog.
 * 🎙 I love contributing to the community by giving talks, writing blog posts whenever I can.
-* 🏡 I live in Medina, Saudi Arabia.
+* 🏡 I'm a cat mom.
 
 
 ## Github stats
