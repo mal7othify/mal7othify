@@ -22,7 +22,7 @@
 I'm Maryam, a Google Developer Expert for Android. Currently, I work as a sr. Android development specialist at Zain KSA.
 
 
-* 📚 Sharing my knowledge and experiences at my blog.
+* 📚 Sharing my knowledge and experiences at [my blog](https://www.mal7othify.com).
 * 🎙 I love contributing to the community by giving talks, writing blog posts whenever I can.
 * 😺 I'm a cat mom.
 
